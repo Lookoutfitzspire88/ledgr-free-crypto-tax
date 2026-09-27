@@ -202,5 +202,6 @@ One file. Real-time P&L. Your taxes.
 
 Made with ❤️ for everyone tired of paying for tax software.
 
-<img width="1456" height="720" alt="Gemini_Generated_Image_rtfo6zrtfo6zrtfo" src="https://github.com/user-attachments/assets/c86be3d0-b802-4a37-a0a4-3babdb9b1f66" />
 
+
+<img width="1456" height="720" alt="Gemini_Generated_Image_f0tkb6f0tkb6f0tk" src="https://github.com/user-attachments/assets/2a485ce1-406c-4528-9723-c902b9b34111" />
