@@ -1,5 +1,7 @@
 # ledgr-free-crypto-tax
 Free crypto tax calculator and portfolio tracker. 50+ exchanges. Real-time P&amp;L, realized and unrealized gains, Form 8949. Local, private, no account.
+<img width="1456" height="720" alt="Gemini_Generated_Image_f0tkb6f0tkb6f0tk" src="https://github.com/user-attachments/assets/556af54c-da8f-477a-a1ba-d811f3832841" />
+
 💰 Ledgr — Free Crypto Tax Tool
 
 Track your crypto. Calculate your taxes. Free. Local. Private.
